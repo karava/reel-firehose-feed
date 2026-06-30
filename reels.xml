@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>Reel firehose</title>
+  <description>New reels from watched accounts</description>
+  <link>https://example.com/reels.xml</link>
+</channel></rss>
